@@ -42,69 +42,18 @@
 
 ```javascript
 const sandhanam = {
-
-    location: "India 🇮🇳",
-
-    role: "Full Stack Developer & IoT Explorer",
-
-    interests: [
-        "Web Development",
-        "IoT Systems",
-        "UI/UX Design",
-        "Creative Coding",
-        "Futuristic Interfaces"
-    ],
-
-    techStack: {
-        frontend: [
-            "React",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js"
-        ],
-
-        database: [
-            "MongoDB"
-        ],
-
-        design: [
-            "Figma",
-            "Blender"
-        ]
-    },
-
-    languages: [
-        "Python",
-        "C++"
-    ],
-
-    currentlyLearning: [
-        "Advanced MERN Stack",
-        "AI Integrations",
-        "System Design",
-        "3D Web Experiences"
-    ],
+  role: "Full Stack Developer & IoT Explorer",
+  stack: ["React", "Node.js", "MongoDB"],
+  interests: ["IoT", "UI/UX", "Creative Coding"],
+  learning: ["AI", "System Design", "3D Web"],
+  motto: "Build futuristic experiences 🚀"
 
     philosophy:
         "Build futuristic things that feel magical ✨",
 
     funFact:
         "I love mixing hardware with software 🚀"
-};
-```
 
-<br clear="right"/>
-
----
-
-# 🚀 Mission Control
-
-```yaml
 status:
   mode: "Building The Future"
 
@@ -126,29 +75,11 @@ vision:
 
 ---
 
-# 🚀 Portfolio
-
-<div align="center">
-
-<a href="https://sandhanam.onetoztechnologies.com/" target="_blank">
-
-<img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-✨ Explore my projects, futuristic UI designs, experiments, and creative digital experiences 🚀
-
-</div>
-
----
-
 # 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,nodejs,express,mongodb,python,react,figma,git,github,vscode,tailwind,firebase,nextjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,nodejs,express,mongodb,python,react,figma,git,github,vscode,tailwind,firebase&theme=dark"/>
 
 <br/><br/>
 
@@ -164,7 +95,7 @@ vision:
 
 | 🚀 Featured Projects | ⚡ What I Do |
 |---|---|
-| 🌌 Space Portfolio → Futuristic anti-gravity portfolio | 🌐 Full Stack Web Development |
+| 🌌 Portfolio → Futuristic portfolio | 🌐 Full Stack Web Development |
 | 🤖 Aura AI Assistant → ESP32 AI assistant | 🤖 Smart IoT Automation Systems |
 | ⚡ Battery Reminder → Smart battery monitoring | 🎨 Futuristic UI/UX Design |
 | 🎨 OopsArt → Creative art platform | ⚡ Interactive Creative Experiences |
@@ -175,14 +106,6 @@ vision:
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandhanamK&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanamK&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
 
 <br/>
 
@@ -253,6 +176,14 @@ vision:
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge" alt="profile views"/>
+
+</div>
+
 ---
 
 # 🧩 Fun Zone
@@ -265,19 +196,10 @@ vision:
 
 <br/>
 
-<div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sb4x3qz4example&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge" alt="profile views"/>
-
-</div>
 
 <br/>
 
