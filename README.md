@@ -187,7 +187,25 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SandhanamK&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SandhanamK&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+<br/>
+
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandhanamK&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandhanamK&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SandhanamK&theme=algolia&hide_border=true&ring=00c6ff&fire=0077ff&currStreakNum=ffffff&sideNums=00c6ff&currStreakLabel=ffffff"/>
 
 </div>
 
@@ -195,18 +213,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SandhanamK&theme=dark&hide_border=false&background=0a0000&border=0077ff&stroke=00c6ff&ring=0077ff&fire=00c6ff&currStreakNum=ffffff&sideNums=00c6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandhanamK&bg_color=050f2c&color=00c6ff&line=0077ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandhanamK&theme=tokyo-night&bg_color=0a0000&color=00c6ff&line=0077ff&point=ffffff&area=true&area_color=0077ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 ## 🚀 SECTOR SPLITS — CURRENT MISSION & ACHIEVEMENTS
