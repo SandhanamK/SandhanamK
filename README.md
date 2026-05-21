@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,40:1a0000,70:cc0000,100:ff1801&height=20&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,40:001d3d,70:0077ff,100:00c6ff&height=12&section=footer"/>
 </div>
+
 
 <div align="center">
 
@@ -23,10 +22,13 @@
 ```
 
 </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,40:001d3d,70:0077ff,100:00c6ff&height=20&section=header"/>
+</div>
 
 ---
 
-## 🏎️ DRIVER PROFILE — CAR #01
+## MY PROFILE — CAR #01
 
 <div align="center">
 
@@ -83,17 +85,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/◼_LinkedIn-PADDOCK_PASS-cc0000?style=for-the-badge&labelColor=0a0000&logo=linkedin&logoColor=ff1801)](https://www.linkedin.com/in/sandanam-k-3654b5308/)&nbsp;
-[![Instagram](https://img.shields.io/badge/◼_Instagram-PIT_LANE-cc0000?style=for-the-badge&labelColor=0a0000&logo=instagram&logoColor=ff1801)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3)&nbsp;
-[![Gmail](https://img.shields.io/badge/◼_Gmail-RADIO_COMMS-cc0000?style=for-the-badge&labelColor=0a0000&logo=gmail&logoColor=ff1801)](mailto:santhanamk9604@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/◼_Portfolio-RACE_TELEMETRY-cc0000?style=for-the-badge&labelColor=0a0000&logo=firefox-browser&logoColor=ff1801)](https://sandhanam.onetoztechnologies.com/)
+[![LinkedIn](https://img.shields.io/badge/◼_LinkedIn-PADDOCK_PASS-0077ff?style=for-the-badge&labelColor=000814&logo=linkedin&logoColor=00c6ff)](https://www.linkedin.com/in/sandanam-k-3654b5308/)&nbsp;
+[![Instagram](https://img.shields.io/badge/◼_Instagram-PIT_LANE-0077ff?style=for-the-badge&labelColor=000814&logo=instagram&logoColor=00c6ff)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3)&nbsp;
+[![Gmail](https://img.shields.io/badge/◼_Gmail-RADIO_COMMS-0077ff?style=for-the-badge&labelColor=000814&logo=gmail&logoColor=00c6ff)](mailto:santhanamk9604@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/◼_Portfolio-RACE_TELEMETRY-0077ff?style=for-the-badge&labelColor=000814&logo=firefox-browser&logoColor=00c6ff)](https://sandhanam.onetoztechnologies.com/)
 
 </div>
 
 <br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=🏎️+RACE+VIEWERS&color=ff1801&style=for-the-badge&labelColor=0a0000"/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=🏎️+RACE+VIEWERS&color=0077ff&style=for-the-badge&labelColor=000814"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d3b7b0d-3b5f-4d9d-b7cb-c7e7ffb7c2b2.gif" width="100%"/>
@@ -105,9 +107,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏎️_RACE_STATUS-LIGHTS_OUT_%26_BUILDING-ff1801?style=for-the-badge&labelColor=0a0000"/>
+<img src="https://img.shields.io/badge/🏎️_RACE_STATUS-LIGHTS_OUT_%26_BUILDING-0077ff?style=for-the-badge&labelColor=000814&logoColor=00c6ff"/>
 
-<br/><br/>
+<br/>
+
 
 | 🔴 Sector | 🏎️ Lap Target | ⏱️ Split |
 |:---:|:---|:---:|
@@ -184,7 +187,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SandhanamK&theme=radical&no-frame=true&row=1&column=7&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SandhanamK&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -192,9 +195,7 @@
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=SandhanamK&show_icons=true&bg_color=0a0000&title_color=ff1801&text_color=ffffff&icon_color=cc0000&border_color=ff180133&hide_border=false&include_all_commits=true&count_private=true&border_radius=10&ring_color=ff1801"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhanamK&layout=compact&bg_color=0a0000&title_color=ff1801&text_color=ffffff&border_color=ff180133&hide_border=false&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=SandhanamK&theme=dark&hide_border=false&background=0a0000&border=0077ff&stroke=00c6ff&ring=0077ff&fire=00c6ff&currStreakNum=ffffff&sideNums=00c6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
 
 </div>
 
@@ -202,15 +203,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SandhanamK&theme=dark&hide_border=false&background=0a0000&border=ff180133&stroke=ff1801&ring=cc0000&fire=ff1801&currStreakNum=ff1801&sideNums=ff1801&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&border_radius=10"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandhanamK&theme=tokyo-night&bg_color=0a0000&color=ff1801&line=cc0000&point=ffffff&area=true&area_color=ff1801&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandhanamK&theme=tokyo-night&bg_color=0a0000&color=00c6ff&line=0077ff&point=ffffff&area=true&area_color=0077ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -348,15 +341,10 @@ $ echo $CHAMPIONSHIP_MISSION
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1801,50:cc0000,100:ff1801&height=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0077ff,100:00c6ff&height=6"/>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0000,50:1a0000,100:0a0000&height=140&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,40:001d3d,70:0077ff,100:00c6ff&height=12&section=footer"/>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,40:1a0000,70:cc0000,100:ff1801&height=12&section=footer"/>
-</div>
-
-```
