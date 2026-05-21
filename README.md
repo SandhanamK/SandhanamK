@@ -147,17 +147,65 @@
 
 <img src="https://img.shields.io/badge/🏎️_RACE_STATUS-LIGHTS_OUT_%26_BUILDING-0077ff?style=for-the-badge&labelColor=000814&logoColor=00c6ff"/>
 
-<br/>
+<br/><br/>
+
+<table>
+<tr>
+
+<td valign="top">
+
+<table>
+<tr>
+<th>🔴 Sector</th>
+<th>🏎️ Lap Target</th>
+<th>⏱️ Split</th>
+</tr>
+
+<tr>
+<td>🌐 Full Stack</td>
+<td>Building championship-grade applications</td>
+<td><code>FASTEST</code></td>
+</tr>
+
+<tr>
+<td>🤖 AI & IoT</td>
+<td>Smart connected systems at race pace</td>
+<td><code>+0.024s</code></td>
+</tr>
+
+<tr>
+<td>🎨 UI/UX</td>
+<td>Futuristic interactive pit-stop designs</td>
+<td><code>+0.081s</code></td>
+</tr>
+
+<tr>
+<td>🚀 Innovation</td>
+<td>Creative digital experiences, every lap</td>
+<td><code>+0.142s</code></td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center" valign="middle">
+
+<pre>
+_
+0=[_]=0
+/T\
+|(o)|
+[]=\_/=[]
+__V__
+'-----'
+</pre>
+
+</td>
 
 
-| 🔴 Sector | 🏎️ Lap Target | ⏱️ Split |
-|:---:|:---|:---:|
-| 🌐 Full Stack | Building championship-grade applications | `FASTEST` |
-| 🤖 AI & IoT | Smart connected systems at race pace | `+0.024s` |
-| 🎨 UI/UX | Futuristic interactive pit-stop designs | `+0.081s` |
-| 🚀 Innovation | Creative digital experiences, every lap | `+0.142s` |
-
-</div>
 
 ---
 
