@@ -1,9 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,40:001d3d,70:0077ff,100:00c6ff&height=12&section=footer"/>
-</div>
-
-
-<div align="center">
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
@@ -15,18 +10,11 @@
 ║     ██████╔╝██║░░██║██║░╚███║██████╔╝██║░░██║██║░░██║██║░╚███║██║░░██║██║░╚═╝░██║      ║
 ║     ╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░░░╚═╝       ║
 ║                                                                                        ║
-║                       SANDHANAM K ◼ CAR #01 ◼ FULL STACK DRIVER                        ║
+║                     SANDHANAM K ◼ CAR #01 ◼ AI-FULL STACK DRIVER                       ║
 ║                                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
-
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,40:001d3d,70:0077ff,100:00c6ff&height=20&section=header"/>
-</div>
-
----
 
 ## MY PROFILE — CAR #01
 
@@ -47,7 +35,7 @@
 ║  STATUS     : ON THROTTLE            ║
 ╠══════════════════════════════════════╣
 ║  TYRES   :                           ║
-║   React · Tailwind (Soft)            ║
+║   React · Tailwind · three.js (Soft) ║
 ║   Node.js · MongoDB (Medium)         ║
 ║   ESP32 · Python · IoT (Hard)        ║
 ╠══════════════════════════════════════╣
@@ -180,15 +168,45 @@
 
 | 🏁 ROUND | GRAND PRIX | CIRCUIT | TECH STACK | RESULT |
 |:---:|:---|:---:|:---:|:---:|
-| `R01` | 🌌 **Space Portfolio GP** | Futuristic Portfolio Universe | React · Three.js · GSAP | 🥇 `P1` |
-| `R02` | 🤖 **Aura AI Sprint** | ESP32 AI Voice Assistant | IoT · NLP · Python | 🥈 `EVOLVING` |
-| `R03` | ⚡ **Battery Sentinel GP** | Smart Power Monitor | ESP32 · MQTT · Node | 🏁 `DEPLOYED` |
-| `R04` | 🎨 **OopsArt Circuit** | Creative Art Platform | MERN · Firebase | 🥇 `P1 LIVE` |
-| `R05` | 🧠 **Neural EDU Prix** | AI Learning Platform | React · ML · Express | 🔵 `IN PITS` |
+| `R01` | 🔋 **Battery-Guard GP** | Smart Battery Monitoring Circuit | JavaScript · Notifications · PWA | 🏁 `DEPLOYED` |
+| `R02` | 🌐 **My-Portfolio Circuit** | Personal Developer Universe | HTML · CSS · JavaScript | 🥇 `LIVE` |
+| `R03` | 🤖 **GitGenei Sprint** | AI Git Automation Track | TypeScript · AI · GitHub API | ⚡ `FASTEST LAP` |
+| `R04` | 🧠 **OpenHub-AI Prix** | Open Source AI Collaboration Hub | JavaScript · AI Systems | 🔵 `ACTIVE` |
+| `R05` | 🎨 **OopsArt Arena** | Creative Digital Art Raceway | MERN · Firebase · UI/UX | 🚀 `EVOLVING` |
+| `R06` | 🏢 **OnetoZ Technologies GP** | Startup Innovation Headquarters | JavaScript · Web Systems | 🏁 `LIVE` |
+
+</div>
+
+## 🚀 SECTOR SPLITS — CURRENT MISSION & ACHIEVEMENTS
+
+<div align="center">
+
+| 🔴 Sector 1 — Exploring | 🏆 Sector 2 — Championships Won |
+|:---|:---|
+| ⚡ Advanced MERN Stack at race pace | 🥇 Hackathon Builder — Podium Finisher |
+| 🤖 Smart IoT Automation systems | 🚀 Open Source Learner — Fastest Lap |
+| 🎨 Futuristic UI/UX at 350km/h | ⚡ MERN Stack Dev — Constructor Points |
+| 🚀 AI Powered Experience engine | 🎨 Creative UI Designer — Race Winner |
+| 🛰️ 3D Interactive Web circuits | 🤖 IoT Explorer — Technical Champion |
 
 </div>
 
 ---
+## ⏱️ PERFORMANCE METRICS — LAP TIMES
+
+<div align="center">
+
+| SKILL SECTOR | SPEED | LAP TIME |
+|:---|:---:|:---:|
+| 🌐 Full Stack (MERN) | `████████████` | `1:16.342 🔴 FASTEST` |
+| 🎨 UI/UX & Figma | `███████████░` | `1:17.018` |
+| ⚡ IoT Engineering | `██████████░░` | `1:18.241` |
+| 🤖 AI Integration | `████████░░░░` | `1:20.509` |
+| 🛰️ 3D / Three.js | `███████░░░░░` | `1:22.874` |
+
+</div>
+---
+
 
 ## 📊 TELEMETRY — GITHUB RACE DATA
 
@@ -223,23 +241,9 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandhanamK&bg_color=050f2c&color=00c6ff&line=0077ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
----
-
-## 🚀 SECTOR SPLITS — CURRENT MISSION & ACHIEVEMENTS
-
-<div align="center">
-
-| 🔴 Sector 1 — Exploring | 🏆 Sector 2 — Championships Won |
-|:---|:---|
-| ⚡ Advanced MERN Stack at race pace | 🥇 Hackathon Builder — Podium Finisher |
-| 🤖 Smart IoT Automation systems | 🚀 Open Source Learner — Fastest Lap |
-| 🎨 Futuristic UI/UX at 350km/h | ⚡ MERN Stack Dev — Constructor Points |
-| 🚀 AI Powered Experience engine | 🎨 Creative UI Designer — Race Winner |
-| 🛰️ 3D Interactive Web circuits | 🤖 IoT Explorer — Technical Champion |
-
-</div>
 
 ---
+
 
 ## 🐍 TRACK MAP — CONTRIBUTION SNAKE
 
@@ -250,54 +254,6 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-## 🏎️ ONBOARD RADIO — DRIVER COMMS
-
-```bash
-# 🎙️ RACE ENGINEER TO DRIVER #01
-
-ENGINEER : "Sandhanam, race engineer here. How's the car feeling?"
-
-DRIVER   : "It's alive out here. Every keystroke is a corner.
-            Every deploy is a podium. No traffic, maximum attack."
-
-ENGINEER : "Copy that. Fastest sector in UI/UX — keep pushing."
-
-DRIVER   : "Box box? No. I don't pit when I'm building legends.
-            Code. Create. Conquer. Checkered flag every sprint."
-
-# ─────────────────────────────────────────────────
-$ git log --oneline --format="%H ◼ %s"
-
-🏁 feat: launched Space Portfolio — pole to victory
-🤖 feat: Aura ESP32 AI assistant — fastest lap
-⚡ fix: battery sentinel monitoring — pit stop perfect
-🎨 feat: OopsArt platform — clean overtake
-🧠 wip: Neural EDU AI — building race strategy...
-
-$ echo $CHAMPIONSHIP_MISSION
-> "Every commit is a lap. Every project is a race. 
->  I don't stop until the checkered flag. 🏁"
-```
-
----
-
-## ⏱️ PERFORMANCE METRICS — LAP TIMES
-
-<div align="center">
-
-| SKILL SECTOR | SPEED | LAP TIME |
-|:---|:---:|:---:|
-| 🌐 Full Stack (MERN) | `████████████` | `1:16.342 🔴 FASTEST` |
-| 🎨 UI/UX & Figma | `███████████░` | `1:17.018` |
-| ⚡ IoT Engineering | `██████████░░` | `1:18.241` |
-| 🤖 AI Integration | `████████░░░░` | `1:20.509` |
-| 🛰️ 3D / Three.js | `███████░░░░░` | `1:22.874` |
-
-</div>
-
 
 ---
 
