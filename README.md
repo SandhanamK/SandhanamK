@@ -92,14 +92,64 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandhanamK&label=🏎️+RACE+VIEWERS&color=0077ff&style=for-the-badge&labelColor=000814"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3b7b0d-3b5f-4d9d-b7cb-c7e7ffb7c2b2.gif" width="100%"/>
 
+---
+
+## 🔧 PIT CREW ARSENAL — CONSTRUCTOR TECH
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" valign="top">
+
+<b>ENGINE UNITS (Languages)</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python&theme=dark"/>
+
+</td>
+
+<td width="50"></td>
+
+<td align="center" valign="top">
+
+<b>AERODYNAMICS (Frontend)</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark"/>
+
+</td>
+
+<td width="50"></td>
+
+<td align="center" valign="top">
+
+<b>POWER UNIT (Backend & DB)</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" valign="top">
+
+<b>RACE TOOLS (Dev & 3D)</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,vercel,netlify,&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -123,49 +173,6 @@
 
 ---
 
-## 🔧 PIT CREW ARSENAL — CONSTRUCTOR TECH
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║              TECHNICAL SPECIFICATION                  ║
-╠═══════════════════════════════════════════════════════╣
-║  ENGINE UNITS (Languages)                             ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python&theme=dark"/>
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  AERODYNAMICS (Frontend)                              ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark"/>
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  POWER UNIT (Backend & DB)                            ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  RACE TOOLS (Dev & 3D)                                ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-&nbsp;&nbsp;
-<img src="https://download.blender.org/branding/blender_logo_socket.png" width="70"/>
-
-</div>
-
----
 
 ## 🏆 RACE CALENDAR — PROJECT GRAND PRIX
 
@@ -343,7 +350,7 @@ $ echo $CHAMPIONSHIP_MISSION
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Raceway&size=16&duration=2500&pause=900&color=FF1801&center=true&vCenter=true&width=750&lines=◼+Thanks+for+visiting+the+paddock+🏎️;◼+Let's+build+something+legendary+🏁;◼+sandhanam.onetoztechnologies.com;◼+santhanamk9604@gmail.com;◼+Code.+Qualify.+Race.+Win.+🏆" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Raceway&size=16&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=◼+Thanks+for+visiting+the+paddock+🏎️;◼+Let's+build+something+legendary+🏁;◼+sandhanam.onetoztechnologies.com;◼+santhanamk9604@gmail.com;◼+Code.+Qualify.+Race.+Win.+🏆" />
 
 </div>
 
