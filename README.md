@@ -130,7 +130,7 @@
 <td align="center" valign="top">
 
 <b>RACE TOOLS (Dev & 3D)</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,vercel,netlify,&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,vercel,netlify&theme=dark"/>
 
 </td>
 
@@ -246,6 +246,8 @@ __V__
 
 </div>
 
+---
+
 ## 🚀 SECTOR SPLITS — CURRENT MISSION & ACHIEVEMENTS
 
 <div align="center">
@@ -261,6 +263,7 @@ __V__
 </div>
 
 ---
+
 ## ⏱️ PERFORMANCE METRICS — LAP TIMES
 
 <div align="center">
@@ -274,6 +277,7 @@ __V__
 | 🛰️ 3D / Three.js | `███████░░░░░` | `1:22.874` |
 
 </div>
+
 ---
 
 
