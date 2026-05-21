@@ -152,6 +152,22 @@
 <table>
 <tr>
 
+<td align="center" valign="middle">
+
+<pre>
+_
+0=[_]=0
+/T\
+|(o)|
+[]=\_/=[]
+__V__
+'-----'
+</pre>
+
+</td>
+
+<td width="40"></td>
+
 <td valign="top">
 
 <table>
@@ -204,6 +220,11 @@ __V__
 </pre>
 
 </td>
+
+</tr>
+</table>
+
+</div>
 
 
 
