@@ -19,66 +19,10 @@
 ║                       SANDHANAM K ◼ CAR #01 ◼ FULL STACK DRIVER                        ║
 ║                                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                        ║
-║                                  __                                                    ║
-║                            _.--""  |                                                   ║
-║             .----.     _.-'   |/\| |.--.                                               ║
-║             |F1  |__.-'   _________|  |_)  _______________                             ║
-║             |  .-""-.""""" ___,    `----'"))   __   .-""-.""""--._                     ║
-║             '-' ,--. `    |GRID|   .---.       |:.| ' ,--. `      _`.                  ║
-║              ( (    ) ) __|LIVE|__ \\|// _..--  \/ ( (    ) )--._".-.                  ║
-║               . `--' ;\__________________..---------. `--' ;--------'                  ║
-║                `-..-'                                `-..-'                            ║
-║                ───────────── ═══  F1 GRID ACTIVE  ═══ ──────────────                   ║
-║                ▁ ▂ ▃ ▄ ▅ ▄ ▃ ▂ ▁   ═════════════   ▁ ▂ ▃ ▄ ▅ ▄ ▃ ▂ ▁                   ║
-║                ═════════════════════════════════════════════════════                   ║
-╚════════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
 
 </div>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1801,50:e10600,100:ff1801&height=6&section=header"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Raceway&size=26&duration=1800&pause=600&color=FF1801&center=true&vCenter=true&width=900&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO...;◼+Full+Stack+Developer+%7C+Pole+Position+Coder;◼+MERN+Stack+%7C+IoT+%7C+UI%2FUX+%7C+AI;◼+Building+at+350km%2Fh+—+No+Brakes+🔥;◼+Code.+Qualify.+Race.+Win.+🏆" />
-
-</div>
-
----
-
-<!-- RACE LIGHTS ROW -->
-<div align="center">
-
-🔴&nbsp;&nbsp;🔴&nbsp;&nbsp;🔴&nbsp;&nbsp;🔴&nbsp;&nbsp;🔴
-
-`— LIGHTS OUT — SEASON IS LIVE —`
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/◼_LinkedIn-PADDOCK_PASS-cc0000?style=for-the-badge&labelColor=0a0000&logo=linkedin&logoColor=ff1801)](https://www.linkedin.com/in/sandanam-k-3654b5308/)&nbsp;
-[![Instagram](https://img.shields.io/badge/◼_Instagram-PIT_LANE-cc0000?style=for-the-badge&labelColor=0a0000&logo=instagram&logoColor=ff1801)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3)&nbsp;
-[![Gmail](https://img.shields.io/badge/◼_Gmail-RADIO_COMMS-cc0000?style=for-the-badge&labelColor=0a0000&logo=gmail&logoColor=ff1801)](mailto:santhanamk9604@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/◼_Portfolio-RACE_TELEMETRY-cc0000?style=for-the-badge&labelColor=0a0000&logo=firefox-browser&logoColor=ff1801)](https://sandhanam.onetoztechnologies.com/)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3b7b0d-3b5f-4d9d-b7cb-c7e7ffb7c2b2.gif" width="100%"/>
-
 
 ---
 
@@ -97,19 +41,19 @@
 ║  NAME       : Sandhanam K            ║
 ║  NUMBER     : #01                    ║
 ║  TEAM       : Full Stack Constructor ║
-║  HOME_RACE  : 🌏 Earth Circuit       ║
-║  STATUS     : 🟢 ON THROTTLE         ║
+║  HOME_RACE  : Earth Circuit          ║
+║  STATUS     : ON THROTTLE            ║
 ╠══════════════════════════════════════╣
 ║  TYRES   :                           ║
-║  🔴 React · Tailwind (Soft)          ║
-║  🟡 Node.js · MongoDB (Medium)       ║
-║  ⚪ ESP32 · Python · IoT (Hard)      ║
+║   React · Tailwind (Soft)            ║
+║   Node.js · MongoDB (Medium)         ║
+║   ESP32 · Python · IoT (Hard)        ║
 ╠══════════════════════════════════════╣
 ║  CURRENT LAP OBJECTIVES:             ║
-║  ├── 🏁 Advanced MERN Stack          ║
-║  ├── 🤖 AI-Powered Web Experiences   ║
-║  ├── 🛰️  3D Interactive Sites        ║
-║  └── ⚡ Smart IoT Automation          ║
+║  ├── Advanced MERN Stack             ║
+║  ├── AI-Powered Web Experiences      ║
+║  ├── 3D Interactive Sites            ║
+║  └── Smart IoT Automation            ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -123,6 +67,37 @@
 </table>
 
 </div>
+
+---
+
+<!-- RACE LIGHTS ROW -->
+<div align="center">
+
+🔴&nbsp;&nbsp;🟠&nbsp;&nbsp;🟢&nbsp;&nbsp;🔵&nbsp;&nbsp;🔴
+
+`— LIGHTS OUT — SEASON IS LIVE —`
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/◼_LinkedIn-PADDOCK_PASS-cc0000?style=for-the-badge&labelColor=0a0000&logo=linkedin&logoColor=ff1801)](https://www.linkedin.com/in/sandanam-k-3654b5308/)&nbsp;
+[![Instagram](https://img.shields.io/badge/◼_Instagram-PIT_LANE-cc0000?style=for-the-badge&labelColor=0a0000&logo=instagram&logoColor=ff1801)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3)&nbsp;
+[![Gmail](https://img.shields.io/badge/◼_Gmail-RADIO_COMMS-cc0000?style=for-the-badge&labelColor=0a0000&logo=gmail&logoColor=ff1801)](mailto:santhanamk9604@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/◼_Portfolio-RACE_TELEMETRY-cc0000?style=for-the-badge&labelColor=0a0000&logo=firefox-browser&logoColor=ff1801)](https://sandhanam.onetoztechnologies.com/)
+
+</div>
+
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=🏎️+RACE+VIEWERS&color=ff1801&style=for-the-badge&labelColor=0a0000"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3b7b0d-3b5f-4d9d-b7cb-c7e7ffb7c2b2.gif" width="100%"/>
+
 
 ---
 
@@ -314,21 +289,6 @@ $ echo $CHAMPIONSHIP_MISSION
 
 </div>
 
----
-
-## 🌐 PIT WALL — CONNECT WITH THE TEAM
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/◼_LinkedIn-PADDOCK_PASS-cc0000?style=for-the-badge&labelColor=0a0000&logo=linkedin&logoColor=ff1801)](https://www.linkedin.com/in/sandanam-k-3654b5308/)&nbsp;
-[![Instagram](https://img.shields.io/badge/◼_Instagram-PIT_LANE-cc0000?style=for-the-badge&labelColor=0a0000&logo=instagram&logoColor=ff1801)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3)&nbsp;
-[![Portfolio](https://img.shields.io/badge/◼_Portfolio-RACE_CONTROL-cc0000?style=for-the-badge&labelColor=0a0000&logo=firefox-browser&logoColor=ff1801)](https://sandhanam.onetoztechnologies.com/)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SandhanamK&label=🏎️+RACE+VIEWERS&color=ff1801&style=for-the-badge&labelColor=0a0000"/>
-
-</div>
 
 ---
 
@@ -353,17 +313,32 @@ $ echo $CHAMPIONSHIP_MISSION
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🏁  RACE COMPLETE — SANDHANAM K TAKES THE CHECKERED FLAG   ║
-║                                                              ║
-║   Thanks for visiting the paddock.                           ║
-║   If you're reading this — let's race together.              ║
-║   Something legendary is always on the grid. 🏎️              ║
-║                                                              ║
-║         ◼ CODE · QUALIFY · RACE · WIN · REPEAT ◼             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                        ║
+║                                  __                                                    ║
+║                            _.--""  |                                                   ║
+║             .----.     _.-'   |/\| |.--.                                               ║
+║             |F1  |__.-'   _________|  |_)  _______________                             ║
+║             |  .-""-.""""" ___,    `----'"))   __   .-""-.""""--._                     ║
+║             '-' ,--. `    |GRID|   .---.       |:.| ' ,--. `      _`.                  ║
+║              ( (    ) ) __|LIVE|__ \\|// _..--  \/ ( (    ) )--._".-.                  ║
+║               . `--' ;\__________________..---------. `--' ;--------'                  ║
+║                `-..-'                                `-..-'                            ║
+║                ───────────── ═══  F1 GRID ACTIVE  ═══ ──────────────                   ║
+║                ▁ ▂ ▃ ▄ ▅ ▄ ▃ ▂ ▁   ═════════════   ▁ ▂ ▃ ▄ ▅ ▄ ▃ ▂ ▁                   ║
+║                ═════════════════════════════════════════════════════                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                        ║
+║                   RACE COMPLETE — SANDHANAM K TAKES THE CHECKERED FLAG                 ║
+║                                                                                        ║
+║                          Thanks for visiting the paddock.                              ║
+║                    If you're reading this — let's race together.                       ║
+║                     Something legendary is always on the grid.                         ║
+║                                                                                        ║
+║                       ◼ CODE · QUALIFY · RACE · WIN · REPEAT ◼                         ║
+║                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Raceway&size=16&duration=2500&pause=900&color=FF1801&center=true&vCenter=true&width=750&lines=◼+Thanks+for+visiting+the+paddock+🏎️;◼+Let's+build+something+legendary+🏁;◼+sandhanam.onetoztechnologies.com;◼+santhanamk9604@gmail.com;◼+Code.+Qualify.+Race.+Win.+🏆" />
@@ -385,19 +360,3 @@ $ echo $CHAMPIONSHIP_MISSION
 </div>
 
 ```
-
-
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                        ║
-║                                  __                                                    ║
-║                            _.--""  |                                                   ║
-║             .----.     _.-'   |/\| |.--.                                               ║
-║             |F1  |__.-'   _________|  |_)  _______________                             ║
-║             |  .-""-.""""" ___,    `----'"))   __   .-""-.""""--._                     ║
-║             '-' ,--. `    |GRID|   .---.       |:.| ' ,--. `      _`.                  ║
-║              ( (    ) ) __|LIVE|__ \\|// _..--  \/ ( (    ) )--._".-.                  ║
-║               . `--' ;\__________________..---------. `--' ;--------'                  ║
-║                `-..-'                                `-..-'                            ║
-║                                                                                        ║
-║                                                                                        ║
-╚════════════════════════════════════════════════════════════════════════════════════════╝
