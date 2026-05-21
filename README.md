@@ -15,8 +15,11 @@
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
-
-## MY PROFILE — CAR #01
+<!-- 🧠 MY PROFILE — CAR #01 -->
+<div align="left">
+  
+##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">  MY PROFILE — CAR #01
+</div>
 
 <div align="center">
 
@@ -86,8 +89,11 @@
 
 
 ---
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> PIT CREW ARSENAL — CONSTRUCTOR TECH
+</div>
 
-## 🔧 PIT CREW ARSENAL — CONSTRUCTOR TECH
 
 <div align="center">
 
@@ -141,7 +147,10 @@
 
 ---
 
-## 🏁 MISSION STATUS — RACE CONTROL
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"> MISSION STATUS — RACE CONTROL
+</div>
 
 <div align="center">
 
@@ -231,7 +240,10 @@ __V__
 ---
 
 
-## 🏆 RACE CALENDAR — PROJECT GRAND PRIX
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="28"> RACE CALENDAR — PROJECT GRAND PRIX
+</div>
 
 <div align="center">
 
@@ -247,8 +259,11 @@ __V__
 </div>
 
 ---
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> SECTOR SPLITS — CURRENT MISSION
+</div>
 
-## 🚀 SECTOR SPLITS — CURRENT MISSION & ACHIEVEMENTS
 
 <div align="center">
 
@@ -266,7 +281,10 @@ __V__
 ---
 
 
-## 📊 TELEMETRY — GITHUB RACE DATA
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> TELEMETRY — GITHUB RACE DATA
+</div>
 
 <div align="center">
 
@@ -303,7 +321,10 @@ __V__
 ---
 
 
-## 🐍 TRACK MAP — CONTRIBUTION SNAKE
+<div align="left">
+  
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> TRACK MAP — CONTRIBUTION SNAKE
+</div>
 
 <div align="center">
 
