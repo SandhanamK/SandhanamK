@@ -262,21 +262,6 @@ __V__
 
 </div>
 
----
-
-## ⏱️ PERFORMANCE METRICS — LAP TIMES
-
-<div align="center">
-
-| SKILL SECTOR | SPEED | LAP TIME |
-|:---|:---:|:---:|
-| 🌐 Full Stack (MERN) | `████████████` | `1:16.342 🔴 FASTEST` |
-| 🎨 UI/UX & Figma | `███████████░` | `1:17.018` |
-| ⚡ IoT Engineering | `██████████░░` | `1:18.241` |
-| 🤖 AI Integration | `████████░░░░` | `1:20.509` |
-| 🛰️ 3D / Three.js | `███████░░░░░` | `1:22.874` |
-
-</div>
 
 ---
 
@@ -325,24 +310,6 @@ __V__
 > *Every green square is a lap completed. The snake never stops.*
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🏆 FUN ZONE — PODIUM QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=SandhanamK&icon=5&color=12)
 
 </div>
 
