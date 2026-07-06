@@ -53,7 +53,9 @@
 </td>
 <td width="45%">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%"/>
+<p align="center">
+<img width="352" height="352" alt="258463f2-a79a-481a-b93d-9c1d5b38bbf3" src="https://github.com/user-attachments/assets/033d259d-42ce-47c3-b4c7-96714a290272" />
+
 
 </td>
 </tr>
